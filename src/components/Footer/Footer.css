@@ -1,0 +1,27 @@
+.footer {
+    background-color: #c1c1c1d9;
+    height: 180px;
+    margin-top: 48px;
+}
+
+.name {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 16px;
+}
+
+.contactContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.contact {
+    margin-top: 16px;
+    line-height: 24px;
+}
+
+.coppyright {
+    text-align: center;
+    margin-top: 16px;
+}

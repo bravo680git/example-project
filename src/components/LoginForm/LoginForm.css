@@ -1,0 +1,50 @@
+.loginContainer {
+    width:350px;
+    height:420px;
+    border:1px solid blue;
+    margin:20px auto
+}
+
+.loginLogoBox {
+    margin:20px 0;
+    width:100%;
+    text-align:center; 
+    font-size: 24px;
+}
+
+.loginLogoBox img {
+    width:100px;
+    border-radius:50%;
+    border:1px solid blue
+}
+
+.loginInput input {
+    display:block;
+    width:80%;
+    height:30px;
+    margin:5px auto;
+    padding-left: 10px;
+}
+
+.loginInput label {
+    margin-left: 10%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.loginBtn button {
+    display:block;
+    margin:30px auto;
+    background-color:transparent;
+    border:1px solid blue;
+    padding:10px 40px;
+    font-size:16px;
+    font-weight:600
+}
+
+.loginBtn button:hover {
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+}
+

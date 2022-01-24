@@ -1,0 +1,36 @@
+.content {
+    margin-top: 20px;
+}
+
+.contentInfo {
+    margin-bottom: 50px;
+}
+
+.stationName {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.stationLocation {
+    float: right;
+    margin-right: 60px;
+}
+
+.displayFlex {
+    display: flex;
+}
+
+.systemValues {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.charts {
+    flex: 4;
+    display: flex;
+}
+
