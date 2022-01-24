@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/example-project/static/css/main.8f8e8970.css",
+    "main.js": "/example-project/static/js/main.3d44d2ce.js",
+    "static/media/logo_sistech.jpg": "/example-project/static/media/logo_sistech.cc9c61986a4aa1c1ed07.jpg",
+    "index.html": "/example-project/index.html",
+    "main.8f8e8970.css.map": "/example-project/static/css/main.8f8e8970.css.map",
+    "main.3d44d2ce.js.map": "/example-project/static/js/main.3d44d2ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f8e8970.css",
+    "static/js/main.3d44d2ce.js"
+  ]
+}
